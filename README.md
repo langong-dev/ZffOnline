@@ -16,12 +16,12 @@
 Copyright (c) 2020 LanGongINC
 ```
 
-![](https://img.shields.io/github/tag/langong-dev/Zff-Online.svg)
-![](https://img.shields.io/github/release/langong-dev/Zff-Online.svg)
-![](https://img.shields.io/github/stars/langong-dev/Zff-Online.svg)
-![](https://img.shields.io/github/forks/langong-dev/Zff-Online.svg)
+![](https://img.shields.io/github/tag/langong-dev/ZffOnline.svg)
+![](https://img.shields.io/github/release/langong-dev/ZffOnline.svg)
+![](https://img.shields.io/github/stars/langong-dev/ZffOnline.svg)
+![](https://img.shields.io/github/forks/langong-dev/ZffOnline.svg)
 ![](https://img.shields.io/badge/state-Service-brightgreen.svg?style=plastic)
-![](https://img.shields.io/badge/GitHub-LanGong-yellow.svg?style=social&logo=github)
+![](https://img.shields.io/badge/GitHub-LanGongZff-yellow.svg?style=social&logo=github)
 
 # Run in Your Book
 
