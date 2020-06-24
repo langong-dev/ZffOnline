@@ -1,3 +1,5 @@
+# langong-dev/ZffOnline is change to [langong-dev/zff-electron](https://github.com/langong-dev/zff-electron)
+
 ```
  __________    _________    _________
 /          \  /         \  /         \
@@ -13,34 +15,12 @@
 |          \  |  |         |  |
 \__________/  \__/         \__/
 
-Copyright (c) 2020 LanGongINC
+Copyright (c) 2020 LanGong
 ```
 
-![](https://img.shields.io/github/tag/langong-dev/ZffOnline.svg)
-![](https://img.shields.io/github/release/langong-dev/ZffOnline.svg)
-![](https://img.shields.io/github/stars/langong-dev/ZffOnline.svg)
-![](https://img.shields.io/github/forks/langong-dev/ZffOnline.svg)
+![](https://img.shields.io/github/tag/langong-dev/.svg)
+![](https://img.shields.io/github/release/langong-dev/zff-electron.svg)
+![](https://img.shields.io/github/stars/langong-dev/zff-electron.svg)
+![](https://img.shields.io/github/forks/langong-dev/zff-electron.svg)
 ![](https://img.shields.io/badge/state-Service-brightgreen.svg?style=plastic)
 ![](https://img.shields.io/badge/GitHub-LanGongZff-yellow.svg?style=social&logo=github)
-
-# Run in Your Book
-
-## Install:
-
-Please install [LanFilePackage](https://langong-dev.github.io/LanFilePackage/) first.
-
-Then input this:
-
-```bash
-./LanGong install github langong-dev/Zff-Online
-```
-
-## Run:
-
-```bash
-./LanGong run Zff-Online
-```
-
-# Run Online
-
-[View this website : `https://langong-dev.github.io/Zff-Online/` , or you can click me to view.](https://langong-dev.github.io/Zff-Online/)
